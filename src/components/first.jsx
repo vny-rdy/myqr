@@ -168,7 +168,7 @@ const WelcomeSection = () => {
         transition={{ ease: "easeInOut", duration: 0.75 }}
         className="mb-10 sm:mb-20 text-3xl sm:text-4xl font-black uppercase text-zinc-50"
       >
-        Welcome to vny space!
+        Explore VNY Galaxy!
       </motion.h1>
       <button
         onClick={() => {
